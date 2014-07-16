@@ -1,0 +1,12 @@
+monster
+Luster Dragon
+1900
+1600
+4
+Wind
+Dragon
+0
+0
+0
+0
+1

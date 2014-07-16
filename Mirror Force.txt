@@ -1,0 +1,4 @@
+trap
+Mirror Force
+1
+0
